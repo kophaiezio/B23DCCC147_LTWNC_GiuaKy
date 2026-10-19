@@ -1,0 +1,11 @@
+{
+  "name": "baithigiuaki",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm start --prefix B23DCCC147_LTWNC_GiuaKy",
+    "test": "npm test --prefix B23DCCC147_LTWNC_GiuaKy",
+    "build": "npm run build --prefix B23DCCC147_LTWNC_GiuaKy"
+  }
+}
+
